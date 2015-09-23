@@ -1,0 +1,2 @@
+Program do rysowania aktywnych grafik. Mo¿e pos³u¿yæ za narzêdzie do tworzenia sztuki cyfrowej.
+
